@@ -6,3 +6,6 @@ Project done by :
 Jung Eun Hong 
 
 Vishakha Mulik
+
+# Source code
+src -> main.cpp
